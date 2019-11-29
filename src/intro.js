@@ -5,10 +5,9 @@ function Intro() {
   return (
     <>
     <div className="fade">
-    <img src="/mistletoe.svg" alt="mistletoe" id="mistletoe" />
-    <img src="/mistletoe.svg" alt="mistletoe" id="mistletoe2" />
-      
-      <div className="container">
+    <div className="container">
+      <img src="/mistletoe.svg" alt="mistletoe" id="mistletoe" />
+      <img src="/mistletoe.svg" alt="mistletoe" id="mistletoe2" />
       <audio src='/theme.mp3' autoPlay loop />
       <h1>Xmas</h1>
         <Link to="/xmaspiano">

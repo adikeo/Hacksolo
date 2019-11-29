@@ -8,8 +8,8 @@ function Xmaspiano() {
      {/* notes in top div */}
      
      <div className="container">
-     <img src="/mistletoe.svg" alt="mistletoe" id="mistletoe" />
-    <img src="/mistletoe.svg" alt="mistletoe" id="mistletoe2" />
+      <img src="/mistletoe.svg" alt="mistletoe" id="mistletoe" />
+      <img src="/mistletoe.svg" alt="mistletoe" id="mistletoe2" />
       <div className="top">
       Jingle Bells
       <div class="grid-container">

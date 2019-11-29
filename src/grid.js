@@ -20,7 +20,7 @@ export default function Grid(){
     squares[2] = new Bishop(2);
     squares[5] = new Bishop(2);
     squares[58] = new Bishop(1);
-    squares[61] = new Bishop(1);
+    squares[61] = new Bishop(1);yarn start
   
     squares[3] = new Queen(2);
     squares[4] = new King(2);
